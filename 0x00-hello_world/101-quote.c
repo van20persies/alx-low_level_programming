@@ -7,10 +7,7 @@
  */
 int main(void)
 {
-	printf("size of char: %i byte(s)\n",sizeof(char));
-	printf("size of an int: %i byte(s)\n",sizeof(int));
-	printf("size of long int: %i byte(s)\n",sizeof(long int));
-	printf("size of long long int: %i byte(s)\n",sizeof(long long int));
-	printf("size of float: %i byte(s)\n",sizeof(float));
-	return (0);
+write( "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n");
+
+return (1);
 }
