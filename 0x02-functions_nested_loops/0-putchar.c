@@ -5,6 +5,7 @@
  */
 int main(void)
 {
+		/**
 		char c[] = "_putchar";
 	int i;
 
@@ -12,6 +13,10 @@ int main(void)
 	{
 		_putchar(c[i]);
 	}
+	
 	_putchar('\n');
+	*/
+	printf('_putchar');
+	printf('\n');
 	return (0);
 }
