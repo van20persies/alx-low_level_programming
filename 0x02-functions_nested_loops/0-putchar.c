@@ -6,7 +6,7 @@
 int main(void)
 {
 	
-		char c[] = "_putchar";
+		char c[] = "_putchar\n";
 	int i;
 
 	for (i = 0; i < 9; i++)
@@ -14,7 +14,7 @@ int main(void)
 		_putchar(c[i]);
 	}
 	
-	_putchar('\n');
+	/* _putchar('\n');*/
 	
 	
 	return (0);
