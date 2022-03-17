@@ -2,13 +2,13 @@
 #include <stdio.h>
 /**
  *
- *  * _isupper -  checks for uppercase character.
+ *  _isupper -  checks for uppercase character.
  *
- *   * @c: c -  Variable
+ *  @c: c -  Variable
  *
- *    * Return: Always 0.
+ *  Return: Always 0.
  *
- *     */
+ * /
 
 int _isupper(int c)
 
