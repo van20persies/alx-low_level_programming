@@ -11,17 +11,11 @@
  *
  * */
 
-int _isupper(int c)
-
+char _isupper(char c)
 {
-
 if (isupper(c))
 {
-
 return (1);
-
 }
-
 return (0);
-
 }
