@@ -1,4 +1,4 @@
-#include "coding.h"
+#include "main.h"
 
 /**
  * _strlen - function with 1 argument
