@@ -1,4 +1,4 @@
-#include "coding.h"
+#include "main.h"
 
 /**
  * puts_half - function with one argument
