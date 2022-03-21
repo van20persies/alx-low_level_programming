@@ -1,4 +1,4 @@
-#include "coding.h"
+#include "main.h"
 
 /**
  * swap_int - function with two int type pointer argument
