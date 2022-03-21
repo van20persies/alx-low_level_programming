@@ -1,4 +1,4 @@
-#include "coding.h"
+#include "main.h"
 
 /**
  * _strcpy - function with two arguments
