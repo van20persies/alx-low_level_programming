@@ -33,4 +33,4 @@ All files is formatted Betty style and checked using betty-style.pl and betty-do
 
 
 ## Author
-Samuel Arthur 
+Nicholas Donnir
